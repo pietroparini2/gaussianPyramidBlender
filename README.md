@@ -25,18 +25,25 @@ Repository [gitHub](https://github.com/pietroparini2/gaussianPyramidBlender).
           @function: recosrtuct  
     """
 
-**immagine originale input a_**
+**immagine originale input a**
 ![Alt original_a](./img/summer.jpg? "input_original_a")  
+
 
 **immagine originale input b**
 ![Alt original_b](./img/winter.jpg "input_original_b")  
 
+
 **immagine ottenuta con piramide a un livello(minimo n° di livelli della piramide)**
+**stacco netto tra immagine di input a ed immagine di input b**
 ![Alt level_1](./img/imageFinal0.jpg "Immagine ottenuta con piramide a 1 livello")  
 
+
 **immagine ottenuta con piramide a 10 livelli(massimo n° di livelli della piramide)**
+**eccessiva propagazione dei colori delle due immagini**
 ![Alt level_9](./img/imageFinal10.jpg "Immagine ottenuta con piramide a 10 livelli")  
 
+  
 ******
-**immagine ottenuta con piramide a 7 livelli(miglior risultato visivo)**
+**immagine ottenuta con piramide a 7 livelli**
+**effetto visivo ottimale**
 ![Alt level_7](./img/imageFinal7.jpg "Immagine ottenuta con piramide a 10 livelli")  
