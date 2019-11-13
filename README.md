@@ -4,7 +4,7 @@
 # ___Assignment 1: Blend piramidale___
 
 ******
-
+Repository [gitHub](https://github.com/pietroparini2/gaussianPyramidBlender).
 
     """  
         Created on Tue Nov 12 10:38:36 2019  
