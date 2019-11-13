@@ -24,3 +24,9 @@
           espandendo il livello e aggiungendolo al livello inferiore  
           @function: recosrtuct  
     """
+
+![Alt original_a](./img/summer.jpg "input_original_a")
+![Alt original_b](./img/summer.jpg "input_original_b")
+
+![Alt level_1](./img/imageFinal0.jpg "Immagine ottenuta con piramide a 1 livello")
+![Alt level_9](./img/imageFinal10.jpg "Immagine ottenuta con piramide a 10 livelli")
