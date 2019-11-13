@@ -25,14 +25,18 @@
           @function: recosrtuct  
     """
 
-__immagine originale input a__
-![Alt original_a](./img/summer.jpg? "input_original_a")
-__immagine originale input b__
-![Alt original_b](./img/summer.jpg "input_original_b")
-__immagine ottenuta con piramide a un livello(minimo n° di livelli della piramide)__
-![Alt level_1](./img/imageFinal0.jpg "Immagine ottenuta con piramide a 1 livello")
-__immagine ottenuta con piramide a 10 livelli(massimo n° di livelli della piramide)__
-![Alt level_9](./img/imageFinal10.jpg "Immagine ottenuta con piramide a 10 livelli")
+**immagine originale input a_**
+![Alt original_a](./img/summer.jpg? "input_original_a")  
+
+**immagine originale input b**
+![Alt original_b](./img/winter.jpg "input_original_b")  
+
+**immagine ottenuta con piramide a un livello(minimo n° di livelli della piramide)**
+![Alt level_1](./img/imageFinal0.jpg "Immagine ottenuta con piramide a 1 livello")  
+
+**immagine ottenuta con piramide a 10 livelli(massimo n° di livelli della piramide)**
+![Alt level_9](./img/imageFinal10.jpg "Immagine ottenuta con piramide a 10 livelli")  
+
 ******
-__immagine ottenuta con piramide a 7 livelli(miglior risultato visivo)__
-![Alt level_7](./img/imageFinal7.jpg "Immagine ottenuta con piramide a 10 livelli")
+**immagine ottenuta con piramide a 7 livelli(miglior risultato visivo)**
+![Alt level_7](./img/imageFinal7.jpg "Immagine ottenuta con piramide a 10 livelli")  
